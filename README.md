@@ -12,7 +12,7 @@ O programa consiste no backend de um sistema de e-commerce com API JSON, dados p
 - Classes de entidade com atributos, id e as anotações @Data, @Entity e @Id;
 - Controller com endpoints para API RESTFul (GET / GET id / POST / PUT id / DELETE id).
 
-### Framework: Insomnia
+#### Framework de teste: Insomnia
 
 ### Arquivos
 
